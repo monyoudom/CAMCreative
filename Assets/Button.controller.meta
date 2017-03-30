@@ -1,10 +1,6 @@
 fileFormatVersion: 2
-guid: 3ad18890fe2734bed952a6677603db32
-labels:
-- Architecture
-- Sky
-- Terrain
-timeCreated: 1490774940
+guid: 3072aef4a69284f7aad29708fed0dff9
+timeCreated: 1490859692
 licenseType: Free
 NativeFormatImporter:
   userData: 
